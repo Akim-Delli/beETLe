@@ -1,6 +1,6 @@
 # beETLe
 
-![Alt text](https://img.favpng.com/1/17/22/black-insect-silhouette-white-clip-art-png-favpng-MpMnyzJHhbmTFX2Rvnb5YUYXD.jpg "a title")
+![beetle](https://cdn4.vectorstock.com/i/1000x1000/30/38/stag-beetle-silhouette-vector-23333038.jpg "beetle")
 
 ## ETL Control Center
 

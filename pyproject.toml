@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "beetle"
+version = "0.1.0"
+description = "ETL Command Center"
+authors = ["Akim Delli <akim_delli@hotmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Flask = "^2.0.1"
+Jinja2 = "^3.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
